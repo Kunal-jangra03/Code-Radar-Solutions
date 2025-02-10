@@ -1,8 +1,10 @@
 #include <stdio.h>
 int main(){
     int a,b,c;
+    scanf("%d",&a);
+    scanf("%d",&b);
+    scanf("%d",&c);
     float out=(a+b+c)/3;
-    scanf("%d %d %d",&a,&b,&c);
     printf("%f",out);
     return 0;
 }
