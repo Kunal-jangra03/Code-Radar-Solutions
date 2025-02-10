@@ -5,6 +5,6 @@ int main(){
     scanf("%d",&b);
     scanf("%d",&c);
     float out=(a+b+c)/3;
-    printf("%f",out);
+    printf("%.2f",out);
     return 0;
 }
