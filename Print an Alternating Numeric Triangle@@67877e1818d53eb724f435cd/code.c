@@ -11,7 +11,7 @@ int main(){
                 printf("0");
             }
         }
-        pirntf("\n")
+        printf("\n")
     }
     return 0;
 }
